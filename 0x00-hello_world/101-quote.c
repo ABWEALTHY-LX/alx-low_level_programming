@@ -2,11 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - prints exactly
- *
+ * main prints exactly
  * Dora Korpar
  *
- * Return - Always 0 (Success)
+ * Return Always 0 (Success)
  */
 
 int main(void)
