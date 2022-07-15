@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-/* main to print magic number */
-
 int main(void)
 {
 	int n;
